@@ -10,5 +10,14 @@
 ![5. Распределение памяти;](https://raw.githubusercontent.com/NikitaGorodchikov/JAVACORE-1-Homework-11/master/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B51.bmp)
 ### Execution Engine
 6. Программа выполняется;
+ВЫВОД:
+``` 
+java.lang.Object@5a07e86812
+finished
+```
 #### Garbage Collection
 7. Производиться сборка мусора;
+
+
+## Задача "Исследование JVM через VisualVM"
+![Вот:](https://raw.githubusercontent.com/NikitaGorodchikov/JAVACORE-1-Homework-11/master/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B52.bmp)
